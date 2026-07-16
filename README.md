@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d3d,100:0d1117&height=110&section=header&animation=fadeIn" width="100%"/>
 
-# Ilesh Patel
+# Dhaval Kanpariya
 
 `AI Engineer` &nbsp;·&nbsp; `Data Scientist` &nbsp;·&nbsp; `Web Specialist`
 
